@@ -130,14 +130,14 @@ Feature Selection: Identifying key indicators.
 Model Training: Classification models for heart disease prediction.
 GUI: Tkinter-based prediction interface.
 
-## Technologies Used
-### Programming Languages: Python
-### Machine Learning Libraries: scikit-learn, XGBoost, LightGBM
-### Data Manipulation and Analysis: pandas, numpy
-### Data Visualization: matplotlib, seaborn
-### GUI Development: Tkinter
-### Web Framework: Flask (for some projects)
-### Database: SQLite3 (for some projects)
+### Technologies Used
+Programming Languages: Python
+Machine Learning Libraries: scikit-learn, XGBoost, LightGBM
+Data Manipulation and Analysis: pandas, numpy
+Data Visualization: matplotlib, seaborn
+GUI Development: Tkinter
+Web Framework: Flask (for some projects)
+Database: SQLite3 (for some projects)
 
 ## Getting Started
 
